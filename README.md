@@ -23,9 +23,9 @@
 
 # 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talyavieiraa&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=talyavieira&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talyavieiraa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talyavieira&layout=compact&theme=tokyonight)
 
 ---
 
