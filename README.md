@@ -1,12 +1,16 @@
-# 👋 Olá, eu sou a Talya Vieira
+# 👩‍💻 Talya Vieira
+
+## 🚀 Sobre mim
 
 🎓 Estudante de Desenvolvimento Front-End  
-💻 Focada em criar interfaces modernas e responsivas  
-🚀 Em constante evolução na área de tecnologia  
+💻 Focada em HTML, CSS e JavaScript  
+🎨 Utilizo Figma para prototipação  
+📚 Em constante evolução  
+🎯 Em busca da minha primeira oportunidade como dev
 
 ---
 
-# 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 <div>
 
@@ -15,25 +19,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 
 </div>
 
 ---
 
-# 📊 Estatísticas
+## 🌐 Onde me encontrar
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=talyavieira&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talyavieira&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talyavieira)
 
 ---
 
-# 🌎 Onde me encontrar
+## ✨ Objetivo
 
-LinkedIn:  
-https://linkedin.com/in/talyavieira
+Me tornar uma desenvolvedora front-end profissional, criando interfaces modernas, responsivas e com foco na melhor experiência do usuário.
 
 ---
 
-✨ Em busca da minha primeira oportunidade como desenvolvedora front-end
+💜 Obrigada por visitar meu perfil!
