@@ -23,7 +23,9 @@
 
 # 📊 Estatísticas
 
-![Talya GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talyavieiraa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talyavieiraa&layout=compact&theme=tokyonight)
 
 ---
 
